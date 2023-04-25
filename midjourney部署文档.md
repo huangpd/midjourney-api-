@@ -18,8 +18,8 @@
       }
     }
   },
-]);
-console.log(`%c token 在你的剪切板，请ctrl V 粘贴在代码里`, 'font-size: 16px');
+]);console.log(`%c token 在你的剪切板，请ctrl V 粘贴在代码里`, 'font-size: 16px');
+
 ```
 token拷贝在这个地方token_channels.json这个文件
 
