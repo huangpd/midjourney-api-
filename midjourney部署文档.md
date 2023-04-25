@@ -17,11 +17,8 @@
         return copy(m.getToken());
       }
     }
-  },
-]);console.log(`%c token 在你的剪切板，请ctrl V 粘贴在代码里`, 'font-size: 16px');
-
-```
-token拷贝在这个地方token_channels.json这个文件
+  },]);console.log(`%c token 在你的剪切板，请ctrl V 粘贴在代码里`, 'font-size: 16px'); ```
+  token拷贝在这个地方token_channels.json这个文件
 
 - 4.拷贝浏览器上midjourney 频道(channels)id,如
  https://discord.com/channels/1093538125210468392/1093710890408353803,链接的最后一个id,1093710890408353803
