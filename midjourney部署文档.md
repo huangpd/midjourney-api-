@@ -1,6 +1,6 @@
 - 1.安装nodejs环境
 - 2.环境安装成功后，解压mj_pro.zip 然后进入mj_pro文件夹，命令换输入npm install 
-- 3.修改 midjourney.js 第30行，获取midjourney网页token，如何获取呢，登陆discord网页版然后F12到开发者工具,点击控制台（Console），输入一下代码获取midjoruy 账户的token值
+- 3.获取midjourney网页token，如何获取呢，登陆discord网页版然后F12到开发者工具,点击控制台（Console），输入一下代码获取midjoruy 账户的token值
 ```javascript
 window.webpackChunkdiscord_app.push([
   [Math.random()],
