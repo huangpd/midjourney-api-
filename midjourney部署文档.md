@@ -1,7 +1,7 @@
 ● 1.安装nodejs环境
 ● 2.环境安装成功后，解压mj_pro.zip 然后进入mj_pro文件夹，命令换输入npm install 
 ● 3.修改 midjourney.js 第30行，获取midjourney网页token，如何获取呢，登陆discord网页版然后F12到开发者工具,点击控制台（Console），输入一下代码获取midjoruy 账户的token值
-window.webpackChunkdiscord_app.push([
+  '''window.webpackChunkdiscord_app.push([
   [Math.random()],
   {},
   req => {
@@ -18,6 +18,7 @@ window.webpackChunkdiscord_app.push([
   },
 ]);
 console.log(`%c token 在你的剪切板，请ctrl V 粘贴在代码里`, 'font-size: 16px');
+'''
 token拷贝在这个地方token_channels.json这个文件
 
 ● 3.拷贝浏览器上midjourney 频道(channels)id,如
