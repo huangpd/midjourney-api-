@@ -30,8 +30,6 @@ token拷贝在这个地方token_channels.json这个文件
 
 - 4.修改redis.js 第4行，输入你的redis账户 redis://:密码@ip:端口/1（没有自己的redis可以不用改）
 
-![9e9e4035e87c225c1586fb6dd07ea3b.png](https://cdn.nlark.com/yuque/0/2023/png/349020/1681979395874-818f55e8-87cd-469a-9797-94aaaba937b7.png#averageHue=%232f2c2c&clientId=ub2ad30c8-1860-4&from=paste&height=346&id=u7bb314dd&name=9e9e4035e87c225c1586fb6dd07ea3b.png&originHeight=346&originWidth=961&originalType=binary&ratio=1&rotation=0&showTitle=false&size=45553&status=done&style=none&taskId=u98d2c61b-769f-4406-9e65-2c916b83e5c&title=&width=961)
-
 - 5.然后运行代码
 
 进入mj_pro 文件夹里，运行node index.js
